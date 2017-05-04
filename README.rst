@@ -6,14 +6,14 @@ newbar-afisha
 Setup
 -----
 
-.. code:
-  
+.. code :: shell
+
   pip install --user newbar-afisha
 
 Example
 -------
 
-.. code:
+.. code :: shell
   
   $ newbar-afisha 
   1 мая пн КИНО В ОРИГИНАЛЕ С СУБТИТРАМИ      В 20-00 смотрим с друзьями Прометей 2012 года. Вход бесплатный. c 20-00
