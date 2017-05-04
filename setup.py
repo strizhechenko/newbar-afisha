@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='newbar-afisha',
-    version='0.0.1',
+    version='0.0.2',
     packages=['newbar_afisha'],
     url='https://github.com/strizhechenko/newbar-afisha',
     license='GPL',
