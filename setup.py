@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='newbar-afisha',
-    version='0.0.5',
+    version='0.0.6',
     packages=['newbar_afisha'],
     url='https://github.com/strizhechenko/newbar-afisha',
     license='GPL',

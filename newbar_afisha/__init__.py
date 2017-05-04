@@ -25,6 +25,7 @@ def parse_events(afisha_url):
 def main():
     for event in parse_events(afisha_link()):
         print event
+        print
 
 
 if __name__ == '__main__':
